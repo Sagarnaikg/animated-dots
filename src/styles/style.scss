@@ -1,0 +1,32 @@
+.home {
+  visibility: hidden;
+  height: 90vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  .info {
+    position: absolute;
+    font-style: italic;
+    color: rgba($color: #222222, $alpha: 0.6);
+    top: 15px;
+  }
+
+  .circle {
+    cursor: pointer;
+    width: 35px;
+    height: 35px;
+    margin: 10px;
+    border-radius: 100%;
+    background-color: #fdcf5d;
+  }
+  .red {
+    background-color: #fd5515;
+  }
+
+  .blue {
+    background-color: #5110fd;
+  }
+}
