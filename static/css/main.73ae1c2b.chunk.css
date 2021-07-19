@@ -1,0 +1,2 @@
+.home{visibility:hidden;height:90vh;width:100%;display:flex;justify-content:center;align-items:center;flex-direction:column}.home .info{position:absolute;font-style:italic;color:rgba(34,34,34,.6);top:15px}.home .circle{cursor:pointer;width:35px;height:35px;margin:10px;border-radius:100%;background-color:#fdcf5d}.home .red{background-color:#fd5515}.home .blue{background-color:#5110fd}
+/*# sourceMappingURL=main.73ae1c2b.chunk.css.map */
