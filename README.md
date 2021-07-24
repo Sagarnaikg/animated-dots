@@ -3,6 +3,9 @@ Animated dots created using React and gsap and hostel using gh-pages
 
 Checkout the live hosted page here [live preview](https://sagarnaikg.github.io/animated-dots/)
 
+### demo
+<img src="https://raw.githubusercontent.com/Sagarnaikg/sagarnaikg/main/assets/dotsanimation.gif" />
+
 
 ## Installation
 
